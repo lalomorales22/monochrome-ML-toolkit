@@ -1,8 +1,6 @@
 # Monochrome ML Toolkit
 
-[View on GitHub](https://github.com/lalomorales22/monochrome-ml-toolkit)
-
-<img width="675" alt="Screenshot of the Monochrome ML Toolkit application interface" src="https://github.com/user-attachments/assets/3ce34fd6-b9ab-4aea-88d5-a8c41f68cc5a" />
+<img width="682" alt="Screenshot 2025-06-29 at 12 43 46 AM" src="https://github.com/user-attachments/assets/4477c39c-182b-47ee-83ff-cd96fd506198" />
 
 An advanced, web-based machine learning environment designed for both learning and practical application. This toolkit empowers you to load, process, visualize, and model data using classic algorithms implemented from scratch, all within an intuitive, interactive interface.
 
